@@ -3,10 +3,10 @@ rapid-dev.jar;https://smocktaylor.gitlab.io/rapid/snapshot/master/rapid.jar
 	Gradle-Version: 5.6.2
 	Groovy-Version: 2.5.4
 	Plugin-Class: org.openstreetmap.josm.plugins.rapid.RapiDPlugin
-	Plugin-Date: 2019-10-02T04:26:45+0000
+	Plugin-Date: 2019-10-02T15:49:42+0000
 	Plugin-Description: Allows the use of RapiD data in JOSM (currently VERY rudimentary)
 	Plugin-Mainversion: 15229
-	Plugin-Version: 0.0.6-3-g1e7e2bf
+	Plugin-Version: 0.0.6-5-g4dbe59f
 	Plugin-Early: false
 	Plugin-Canloadatruntime: true
 	Author: Taylor Smock <incoming+smocktaylor/rapid@incoming.gitlab.com>
